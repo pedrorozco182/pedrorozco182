@@ -76,14 +76,6 @@ When I'm not optimizing frontend performance or writing tests, you can find me:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&cache_seconds=86400" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&cache_seconds=86400" alt="Most Used Languages" height="165" />
-</p>
-
----
 
 ### 📬 Let's Connect!
 
